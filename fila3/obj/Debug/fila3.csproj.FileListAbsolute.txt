@@ -1,0 +1,17 @@
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\fila3.exe.config
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\fila3.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\fila3.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\MySql.Data.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\Google.Protobuf.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\ZstdNet.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\System.Buffers.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\bin\Debug\MySql.Data.xml
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\obj\Debug\fila3.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\obj\Debug\fila3.csproj.fila3.exe.config
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\obj\Debug\fila3.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\fila3\fila3\obj\Debug\fila3.pdb
